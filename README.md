@@ -2,8 +2,8 @@
 
 I'm a Junior Fullstack Developer passionate about building scalable web applications and exploring new technologies. I enjoy contributing to open-source projects and continuously improving my skills.
 
-[![Github](https://img.shields.io/github/followers/danielace1?label=Follow&style=social)](https://github.com/danielace1)
-![](https://komarev.com/ghpvc/?username=danielace1&color=green)
+[![Github Follow](https://img.shields.io/github/followers/danielace1?label=Follow&style=social)](https://github.com/danielace1)
+![Profile Views](https://komarev.com/ghpvc/?username=danielace1&color=green)
 
 ## 🚀 About Me:
 
@@ -12,6 +12,7 @@ I'm a Junior Fullstack Developer passionate about building scalable web applicat
 - 🌱 Currently exploring cybersecurity and ethical hacking.
 - 🎯 Focused on writing clean, efficient, and maintainable code.
 - ⚡ Fun fact: I love debugging more than coding! (Most of the time 😆)
+- 🌐 My Portfolio: https://www.sudharsan-a.me
 
 # 💻 Tech Stack :
 
